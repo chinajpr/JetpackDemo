@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity
 import android.view.View
 import com.jpr.jetpackdemo.R
 import kotlinx.android.synthetic.main.activity_vm.*
+import java.util.Observer
 
 /**
  * 类描述：
